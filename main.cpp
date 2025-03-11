@@ -50,6 +50,7 @@ int main() {
         case 4:
             DLL.Clear();
             cout << "List has been cleared." << endl;
+            break;
         case 5:
             cout << "Enter value of the item to search for:" << endl;
             cin >> value;
